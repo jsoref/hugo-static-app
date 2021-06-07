@@ -7,7 +7,7 @@ draft: false
 Notepad++ v8 new features, enhancements & bug-fixes:
 
 1.  Add Dark Mode.
-2.  ARM64 build is available.
+2.  ARM64 buildimg is available.
 3.  One button to build them all - build Notepad++ with Scintilla static lib and Boost RegExpr headers.
 4.  Add new Fluent UI icons for toolbar.
 5.  Add new feature "Distraction Free Mode" (Menu "View->Distraction Free Mode").
