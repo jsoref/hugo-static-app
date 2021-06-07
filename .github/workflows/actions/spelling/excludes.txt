@@ -46,7 +46,8 @@
 \.zip$
 ^themes/
 ^archetypes/
-^themes/
-^\.github/$
-^\.github/workflows/$
+^\.github/
+^\.github/workflows/
+^\.github/actions/spelling/
 ^\.gitignore$
+^\.gitmodules$
