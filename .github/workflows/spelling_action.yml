@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Spellcheck
 
 # Controls when the action will run. 
 on:
@@ -31,5 +31,5 @@ jobs:
         name: Spellcheck
         with:
           config_path: spellcheck/.spellcheck.yml # put path to configuration file here
-          source_files: content/posts/
+          source_files: content/posts
           task_name: Markdown
