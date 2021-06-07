@@ -31,5 +31,5 @@ jobs:
         name: Spellcheck
         with:
           config_path: spellcheck/.spellcheck.yml # put path to configuration file here
-          source_files: '**/*.md'
+          source_files: 'content/posts/*.md'
           task_name: Markdown
