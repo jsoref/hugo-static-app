@@ -1,2 +1,2 @@
 [![Azure Static Web Apps CI/CD](https://github.com/scout249/hugo-static-app/actions/workflows/azure-static-web-apps-polite-ocean-0b47fca1e.yml/badge.svg)](https://github.com/scout249/hugo-static-app/actions/workflows/azure-static-web-apps-polite-ocean-0b47fca1e.yml)
-[![Spellcheck](https://github.com/scout249/hugo-static-app/actions/workflows/spelling_action.yml/badge.svg)](https://github.com/scout249/hugo-static-app/actions/workflows/spelling_action.yml)
+[![Spell Checking](https://github.com/scout249/hugo-static-app/actions/workflows/spelling.yml/badge.svg)](https://github.com/scout249/hugo-static-app/actions/workflows/spelling.yml)
