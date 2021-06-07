@@ -4,6 +4,8 @@ date: 2021-06-07T18:40:08+08:00
 draft: false
 ---
 
+fujitsu
+
 Notepad++ v8 new features, enhancements & bug-fixes:
 
 1.  Add Dark Mode.
