@@ -22,6 +22,7 @@ Date: 2021-06-07T15:50:20+08:00
 - Notepad++ as text editor
 - Typora as Markdown editor
 - Hugo as static Site Generator
+- A purchased domain name
 
 ## Install Chocolatey
 
