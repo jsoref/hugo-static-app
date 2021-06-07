@@ -48,4 +48,5 @@
 ^archetypes/
 ^themes/
 ^\.github/$
+^\.github/workflows/$
 ^\.gitignore$
