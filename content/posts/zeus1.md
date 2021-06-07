@@ -1,7 +1,7 @@
 ---
 title: "Zeus1"
 date: 2021-06-07T18:40:08+08:00
-draft: true
+draft: false
 ---
 
 Notepad++ v8 new features, enhancements & bug-fixes:
