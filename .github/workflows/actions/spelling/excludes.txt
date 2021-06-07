@@ -47,5 +47,5 @@
 ^themes/
 ^archetypes/
 ^themes/
-^\.github/
+^\.github/$
 ^\.gitignore$
