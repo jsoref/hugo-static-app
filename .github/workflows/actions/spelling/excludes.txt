@@ -44,10 +44,11 @@
 \.xpm$
 \.yml$
 \.zip$
+config.toml
 ^themes/
 ^archetypes/
 ^\.github/
-^\.github/workflows/
-^\.github/actions/spelling/
+^\.github\/workflows\/
+^\.github\/actions\/spelling\/
 ^\.gitignore$
 ^\.gitmodules$
