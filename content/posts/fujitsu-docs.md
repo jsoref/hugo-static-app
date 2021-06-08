@@ -39,7 +39,7 @@ Date: 2021-06-07T15:50:20+08:00
 1. If you don't see any errors, you are ready to use Chocolatey.
 
    ```powershell
-   choco
+   choco version
    ```
 
 
@@ -71,6 +71,12 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
    ```powershell
    mkdir C:\hugo
    cd C:\hugo
+   ```
+
+1. If you don't see any errors, you are ready to use Hugo.
+
+   ```powershell
+   hugo version
    ```
 
 1. Run the Hugo CLI to create a new app.
