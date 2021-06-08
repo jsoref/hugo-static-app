@@ -160,18 +160,6 @@ To ensure your commits in GitHub appears. It must have a username and email:
    git config --global user.email "MY_NAME@example.com"
    ```
 
-## Commit The Change Locally
-
-You have already create an empty git repository on local machine using `git init` command. The following steps show you how to commit change locally.
-
-1. Commit the changes.
-
-   ```bash
-   git add -A
-   git commit -m "initial commit"
-   ```
-
-
 ## Push your application to GitHub
 
 You need a repository on GitHub to connect to Azure Static Web Apps. The following steps show you how to create a repository for your site.
@@ -184,10 +172,23 @@ You need a repository on GitHub to connect to Azure Static Web Apps. The followi
    New-Item -name README.md -Value "Example Hugo Site"
    ```
 
+1. You have already create an empty git repository on local machine using `git init` command. The following steps show you how to commit change locally.
+
+   ```bash
+   git add -A
+   git commit -m "initial commit"
+   ```
+
 1. Add the GitHub repository as a remote to your local repo. Make sure to add your GitHub username in place of the `<YOUR_USER_NAME>` placeholder in the following command.
 
    ```bash
    git remote add origin https://github.com/<YOUR_USER_NAME>/hugo-static-app
+   ```
+
+1. Create a new branch.
+
+   ```bash
+   git branch -M main
    ```
 
 1. Push your local repo up to GitHub.
