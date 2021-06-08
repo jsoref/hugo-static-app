@@ -114,6 +114,7 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
 1. Next, add a theme to the site by installing a theme as a git submodule and then specifying it in the Hugo config file.
 
    ```bash
+   git init
    git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
    echo 'theme = "ananke"' >> config.toml
    ```
@@ -153,14 +154,9 @@ To ensure your commits in GitHub appears. It must have a username and email:
    git config --global user.email "MY_NAME@example.com"
    ```
 
-## Create a Hugo App Locally
+## Commit The Change Locally
 
-Create an empty Git repository on local machine.
-1. Initialize a Git repo.
-
-   ```bash
-   git init
-   ```
+You have already create an empty git repository on local machine using `git init` command. The following steps show you how to commit change locally.
 
 1. Commit the changes.
 
