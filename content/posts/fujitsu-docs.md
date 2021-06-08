@@ -194,7 +194,7 @@ You need a repository on GitHub to connect to Azure Static Web Apps. The followi
 1. Push your local repo up to GitHub.
 
    ```bash
-   git push --set-upstream origin main
+   git push origin main
    ```
 
 ## Deploy your web app to Azure
