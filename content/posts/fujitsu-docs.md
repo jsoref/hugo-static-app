@@ -123,8 +123,6 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
    git init
    git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
    Add-Content config.toml 'theme = "ananke"'
-      
-   
    ```
 
 1. Launch the site on the local machine.
