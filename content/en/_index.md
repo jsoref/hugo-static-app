@@ -17,7 +17,7 @@ landing:
   buttons:
     - link: docs
       text: HUGO THEME ZDOC
-      color: #d30909
+      color: "#d30909"
   backgroundImage: 
     #src: images/landscape.jpg
     #height: 600
@@ -62,7 +62,7 @@ footer:
       Copyright © 2020. All rights reserved.
 
 sections:
-  - bgcolor: #4b4b4b
+  - bgcolor: "#4b4b4b"
     type: card
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
     header: 
@@ -108,12 +108,12 @@ sections:
           target: _blank
           color: 'white'
           bgcolor: '#283593'
-  - bgcolor: #e3e3e3
+  - bgcolor: "#e3e3e3"
     type: normal
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
     header:
       title: Build it with Zdoc
-      hlcolor: #4b4b4b
+      hlcolor: "#4b4b4b"
       color: "#fff"
       fontSize: 32
       width: 340
