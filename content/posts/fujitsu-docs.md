@@ -93,9 +93,9 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
 
 1. Create content for your site
    ```bash
-   hugo new content/posts/blog-post-1.md
-   hugo new content/posts/blog-post-2.md
-   hugo new content/posts/blog-post-3.md
+   hugo new posts/blog-post-1.md
+   hugo new posts/blog-post-2.md
+   hugo new posts/blog-post-3.md
    ```
    
 1. Edit the content of the new file as you need. Save and close the file and Hugo will automatically detect the change of the newly added blog post.
