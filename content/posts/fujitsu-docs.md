@@ -98,13 +98,15 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
    hugo new posts/blog-post-3.md
    ```
    
-1. Edit the content of the new file as you need. Save and close the file and Hugo will automatically detect the change of the newly added blog post.
+1. Change draft mode of post1 and post2 to `false`. Verify post3 have draft mode set to `true`. Save and close the file and Hugo will automatically detect the change of the newly added blog post. The content will not be rendered by Hugo when draft mode is set to `true`.
    You can use **Typora** to edit the markdown files.
    
    ```bash
    notepad content/posts/blog-post-1.md
-   notepad content/posts/blog-post-1.md
-   notepad content/posts/blog-post-1.md
+   draft: false
+   
+   notepad content/posts/blog-post-2.md
+   draft: false
    ```
    
 1. Launch the site on the local machine. To use the Hugo built-in server, launch the site with the command
