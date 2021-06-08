@@ -59,7 +59,6 @@ footer:
     applySinglePageCss: false
     markdown:
       |
-      ## Zzo docs
       Copyright © 2020. All rights reserved.
 
 sections:
