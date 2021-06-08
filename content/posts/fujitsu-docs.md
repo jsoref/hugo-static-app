@@ -109,20 +109,6 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
    draft: false
    ```
    
-1. Launch the site on the local machine. To use the Hugo built-in server, launch the site with the command
-   ```bash
-   hugo server
-   ```
-
-1. Open a web browser and point it to **http://localhost:1313** and you should see the new Hugo site. If the site is unable to render, make sure McAfee and Windows Defender Firewall is disabled.
-   ```bash
-   http://localhost:1313
-   ```
-
-1. Press **CTRL+C** to stop Hugo server.
-
-## Apply a Theme
-
 1. Hugo Theme can be download at https://themes.gohugo.io/
 
 1. Next, add a theme to the site by installing a theme as a git submodule and then specifying it in the Hugo config file.
