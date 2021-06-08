@@ -17,7 +17,7 @@ landing:
   buttons:
     - link: docs
       text: HUGO THEME ZDOC
-      color: 'white'
+      color: "white"
       bgcolor: "#d30909"
   backgroundImage: 
     #src: images/landscape.jpg
@@ -114,7 +114,7 @@ sections:
     header:
       title: Build it with Zdoc
       hlcolor: "#d30909"
-      color: "#fff"
+      color: "#4b4b4b"
       fontSize: 32
       width: 340
     body:
