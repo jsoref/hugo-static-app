@@ -36,9 +36,11 @@ Date: 2021-06-07T15:50:20+08:00
 
 1. Wait a few seconds for the command to complete.
 
-1. If you don't see any errors, you are ready to use Chocolatey! Type `choco`
+1. If you don't see any errors, you are ready to use Chocolatey.
 
-
+   ```powershell
+   choco
+   ```
 
 
 ## Install Tools
