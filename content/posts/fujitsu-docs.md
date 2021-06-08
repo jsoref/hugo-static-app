@@ -178,6 +178,12 @@ You need a repository on GitHub to connect to Azure Static Web Apps. The followi
 
 1. Create a blank GitHub repo (don't create a README) from [https://github.com/new](https://github.com/new) named **hugo-static-app**.
 
+1. Create a readme file for your project.
+
+   ```powershell
+   New-Item -name README.md -Value "Example Hugo Site"
+   ```
+
 1. Add the GitHub repository as a remote to your local repo. Make sure to add your GitHub username in place of the `<YOUR_USER_NAME>` placeholder in the following command.
 
    ```bash
