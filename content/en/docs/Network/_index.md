@@ -1,6 +1,6 @@
 ---
 title: "Network"
-description: "test post index"
+description: "Firewall, Network, Router Settings"
 date: 2020-01-28T00:36:39+09:00
 draft: false
 weight: 4
