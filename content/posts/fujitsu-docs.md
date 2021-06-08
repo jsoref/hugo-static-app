@@ -114,7 +114,7 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
    hugo server
    ```
 
-1. Open a web browser and point it to **http://localhost:1313** and you should see the new Hugo site.
+1. Open a web browser and point it to **http://localhost:1313** and you should see the new Hugo site. If the site is unable to render, make sure McAfee and Windows Defender Firewall is disabled.
    ```bash
    http://localhost:1313
    ```
