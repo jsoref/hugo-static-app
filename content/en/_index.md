@@ -17,7 +17,8 @@ landing:
   buttons:
     - link: docs
       text: HUGO THEME ZDOC
-      color: "#d30909"
+      color: 'white'
+      bgcolor: "#d30909"
   backgroundImage: 
     #src: images/landscape.jpg
     #height: 600
@@ -83,7 +84,7 @@ sections:
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
+          bgcolor: "#d30909"
       - subtitle: Reliability
         subtitlePosition: center
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
@@ -95,7 +96,7 @@ sections:
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
+          bgcolor: "#d30909"
       - subtitle: Productivity
         subtitlePosition: center
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
@@ -107,13 +108,13 @@ sections:
           size: large
           target: _blank
           color: 'white'
-          bgcolor: '#283593'
+          bgcolor: "#d30909"
   - bgcolor: "#e3e3e3"
     type: normal
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
     header:
       title: Build it with Zdoc
-      hlcolor: "#4b4b4b"
+      hlcolor: "#d30909"
       color: "#fff"
       fontSize: 32
       width: 340
