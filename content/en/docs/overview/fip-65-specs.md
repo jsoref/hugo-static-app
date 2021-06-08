@@ -6,3 +6,5 @@ draft: false
 weight: 2
 enableToc: false
 ---
+
+![IW652](/images/IW652_font_low.png)
