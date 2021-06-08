@@ -62,12 +62,12 @@ footer:
       Copyright © 2020. All rights reserved.
 
 sections:
-  - bgcolor: teal
+  - bgcolor: #4b4b4b
     type: card
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
     header: 
-      title: Why Zdoc
-      hlcolor: "#8bc34a"
+      title: Why Fujitsu
+      hlcolor: "#d30909"
       color: '#fff'
       fontSize: 32
       width: 220
@@ -108,12 +108,12 @@ sections:
           target: _blank
           color: 'white'
           bgcolor: '#283593'
-  - bgcolor: DarkSlateBlue
+  - bgcolor: #e3e3e3
     type: normal
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
     header:
       title: Build it with Zdoc
-      hlcolor: DarkKhaki
+      hlcolor: #4b4b4b
       color: "#fff"
       fontSize: 32
       width: 340
