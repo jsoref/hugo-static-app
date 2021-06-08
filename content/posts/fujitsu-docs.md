@@ -114,9 +114,17 @@ Create a Hugo app using the Hugo Command Line Interface (CLI):
 1. Next, add a theme to the site by installing a theme as a git submodule and then specifying it in the Hugo config file.
 
    ```bash
+   #Bash
    git init
    git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
    echo 'theme = "ananke"' >> config.toml
+   
+   #PowerShell
+   git init
+   git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+   Add-Content config.toml 'theme = "ananke"'
+      
+   
    ```
 
 1. Launch the site on the local machine.
