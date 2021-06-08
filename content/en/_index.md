@@ -17,7 +17,7 @@ landing:
   buttons:
     - link: docs
       text: HUGO THEME ZDOC
-      color: primary
+      color: #d30909
   backgroundImage: 
     #src: images/landscape.jpg
     #height: 600
