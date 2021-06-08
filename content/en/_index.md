@@ -121,7 +121,7 @@ sections:
       subtitle: Extensible and customizable.
       subtitlePosition: left
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
-      color: white
+      color: "#4b4b4b"
       image: images/section/root-server.png
       imagePosition: left
 ---
