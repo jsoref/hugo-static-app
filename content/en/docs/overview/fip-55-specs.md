@@ -9,7 +9,7 @@ enableToc: false
 
 ## Fujitsu Interactive Panel 55"
 
-| **Product Name**                        |                                                                                                     |
+| **ABC Name**                        |                                                                                                     |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
 | **Picture Performance**                 |                                                                                                     |
 | Panel and backlit                       | DLED                                                                                                |
