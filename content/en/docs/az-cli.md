@@ -18,7 +18,7 @@ az staticwebapp create \
     -l westus2 \
     -b main \
     --login-with-github \
-    --app-location . \
+    --app-location / \
+    --api-location "" \
     --output-location public
 ```
-
