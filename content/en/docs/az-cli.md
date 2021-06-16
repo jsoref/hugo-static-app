@@ -14,9 +14,11 @@ az group create -l westus2 -n rg-fipdocs0616
 az staticwebapp create \
     -n stapp-hugo \
     -g rg-fipdocs0616 \
-    -s https://github.com/<YOUR_GITHUB_ACCOUNT_NAME>/my-first-static-web-app \
+    -s https://github.com/scout249/staticsite2 \
     -l westus2 \
     -b main \
-    --token <YOUR_GITHUB_PERSONAL_ACCESS_TOKEN>
+    --login-with-github \
+    --app-location / \
+    --output-location public
 ```
 
