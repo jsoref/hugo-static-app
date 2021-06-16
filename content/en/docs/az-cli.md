@@ -22,3 +22,7 @@ az staticwebapp create \
     --api-location "" \
     --output-location public
 ```
+
+```bash
+az staticwebapp hostname set -n stapp-hugo --hostname a.vvvvv.ooo
+```
