@@ -7,7 +7,7 @@ weight: 1
 enableToc: false
 ---
 
-# What's new in Windows 10 Team 2020 Update
+# What's new in Windows 10 Team 2021 Update
 
 Windows 10 Team 2020 Update brings major improvements to device deployment and manageability along with the latest Windows 10 features.
 
