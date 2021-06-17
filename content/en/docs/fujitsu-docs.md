@@ -3,12 +3,11 @@ title: "Fujitsu Knowledge Base Setup Guide"
 date: 2021-06-07T15:50:20+08:00
 author: Michael Tam
 email: michael.tam@fujitsu.com
-weight: -1
 ---
 
 
 
-# Tutorial: Welcome 123456
+# Tutorial: Use Hugo to Create Fujitsu Knowledge Website
 
 Author: Michael Tam
 Email: michael.tam@fujitsu.com
