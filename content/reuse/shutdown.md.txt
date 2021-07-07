@@ -1,0 +1,4 @@
+{{%excerpt%}}
+1. Click the bottom-left **Start** button to open the Start Menu.
+1. Click **Shutdown** button to turn off the computer.
+{{% /excerpt%}}
