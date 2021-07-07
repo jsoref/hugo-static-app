@@ -1,4 +1,10 @@
 {{%excerpt%}}
-1. Click the bottom-left **Start** button to open the Start Menu.
-1. Click **Shutdown** button to turn off the computer.
+## Activate search
+
+If not already present, add the follow lines to the `config.toml` file.
+
+```toml
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+```
 {{% /excerpt%}}
