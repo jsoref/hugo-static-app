@@ -1,7 +1,7 @@
 +++
-title = "About the Search Engine"
+title = "Fujitsu CCD"
 description = ""
-weight = 40
+weight = 50
 +++
 
 Docdock theme uses the last improvement available in hugo version 20+ to generate a json index file ready to be consumed by lunr.js javascript search engine.
